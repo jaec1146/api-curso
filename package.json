@@ -1,0 +1,19 @@
+{
+  "name": "api-curso",
+  "version": "1.0.0",
+  "description": "curso API",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaec1146/api-curso.git"
+  },
+  "author": "@jaec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaec1146/api-curso/issues"
+  },
+  "homepage": "https://github.com/jaec1146/api-curso#readme"
+}
