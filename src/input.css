@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.circle{
+  @apply h-12 w-12 rounded-full bg-gray-400 border-2 border-white
+}
+
+.slider{
+ @apply flex w-300 aspect-10/16 overflow-scroll  snap-mandatory snap-x
+ .img{
+   w-full sticky object-cover rounded snap-center
+ }
+}

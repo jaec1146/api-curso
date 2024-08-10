@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jaec1146/api-curso/issues"
   },
-  "homepage": "https://github.com/jaec1146/api-curso#readme"
+  "homepage": "https://github.com/jaec1146/api-curso#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
 }
