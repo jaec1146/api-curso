@@ -1,11 +1,13 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/*.{html,css,js}"],
+  content: [
+    "./src/*.{html,css,js}",
+    "./src/*/*.{svg,jpg,png,js}"],
   darkMode: 'class',
   theme: {
     extend: {
       backgroundImage: {
-        'icono-wvhs':"url('/api-curso/src/icons/icon-wvhs.svg')",
+        'icono-wvhs':"url('src/icons/icon-wvhs.svg')",
       },
       backgroundColor: theme => ({
         ...theme('colors'),

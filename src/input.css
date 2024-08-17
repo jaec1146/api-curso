@@ -7,8 +7,8 @@
 }
 
 .slider{
- @apply flex w-300 aspect-10/16 overflow-scroll  snap-mandatory snap-x
- .img{
-   w-full sticky object-cover rounded snap-center
- }
+  @apply flex w-300 aspect-10/16 overflow-scroll  snap-mandatory snap-x
+  .img{
+    w-full sticky object-cover rounded snap-center */
+  }
 }
