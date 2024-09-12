@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'icono-wvhs':"url('src/icons/icon-wvhs.svg')",
+        'icono-wvhs':"url('icons/icon-wvhs.svg')",
       },
       backgroundColor: theme => ({
         ...theme('colors'),

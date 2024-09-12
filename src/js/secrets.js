@@ -1,1 +1,1 @@
-const API_KEY = "live_8CfJVJI3Xfe7I02waYjCXjfIJTC4orhq028yx7vyxbdC5qRMPrukEV8mlQgIcuYD"
+const API_KEY = "f0566de30adc1dae427ebb2fbc472ad8"
